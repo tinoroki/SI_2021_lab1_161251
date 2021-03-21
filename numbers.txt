@@ -14,3 +14,6 @@ Na
 Finki
 4-ta Godina
 Index: 161251
+
+
+https://github.com/tinoroki/SI_2021_lab1_161251.git
